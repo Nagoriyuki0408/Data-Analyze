@@ -4,24 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d91d5c3e-64ee-4eee-8b46-c8311b5f5b02" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Data Analyse.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/Numpy/NumpyDemo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/Numpy/NumpyDemo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/Numpy/NumpyDemo3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/Numpy/NumpyDemo4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/Numpy/NumpyDemo5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/Numpy/NumpyDemo6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/Pandas/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/matplotlib/plotDemo1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/matplotlib/plotDemo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/matplotlib/plot_barDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/matplotlib/plot_barDemo2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/matplotlib/plot_histDemo.py" afterDir="false" />
+    <list default="true" id="d91d5c3e-64ee-4eee-8b46-c8311b5f5b02" name="Changes" comment="file">
+      <change afterPath="$PROJECT_DIR$/Itnagoriyuki/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,11 +61,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1747273428009</updated>
-      <workItem from="1747273429192" duration="1141000" />
+      <workItem from="1747273429192" duration="1619000" />
     </task>
+    <task id="LOCAL-00001" summary="Numpy">
+      <option name="closed" value="true" />
+      <created>1747274697719</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1747274697719</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Pandas">
+      <option name="closed" value="true" />
+      <created>1747274710947</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747274710947</updated>
+    </task>
+    <task id="LOCAL-00003" summary="matplotlib">
+      <option name="closed" value="true" />
+      <created>1747274762479</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1747274762479</updated>
+    </task>
+    <task id="LOCAL-00004" summary="file">
+      <option name="closed" value="true" />
+      <created>1747274773116</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1747274773116</updated>
+    </task>
+    <task id="LOCAL-00005" summary="file">
+      <option name="closed" value="true" />
+      <created>1747274782383</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1747274782383</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Numpy" />
+    <MESSAGE value="Pandas" />
+    <MESSAGE value="matplotlib" />
+    <MESSAGE value="file" />
+    <option name="LAST_COMMIT_MESSAGE" value="file" />
   </component>
 </project>
